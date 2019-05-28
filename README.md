@@ -4,10 +4,10 @@
   g++ crawler.cpp -lcurl -o 1
 ## Запуск:
   ./1
-  /*глубина*/ </code>
-  /*полный url сайта*/ </code>
+  /*глубина*/ </>
+  /*полный url сайта*/ </>
   
 ## Пример:
   ./1
-  2 </code>
-  http://www.msu.kz </code>
+  2 </>
+  http://www.msu.kz </>
